@@ -3,6 +3,7 @@
 Files in this repository are provided for data preprocessing used by the NME Finder web application: https://nmefi.lf2.cuni.cz/
 
 **Prerequisites and Setup**
+
 Ensure all necessary file paths are correctly set in both script files.
 We recommend extending exome boundaries in the BED files (we used a 50 bp extension in our analysis).
 
